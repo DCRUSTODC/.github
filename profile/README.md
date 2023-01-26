@@ -30,6 +30,6 @@ Emoji/Type | Represents | Emoji/Type | Represents | Emoji/Type | Represents |
 
 To figure out a great `first GitHub issue` to work on.
 
-You should also check out our [contribution guide](/contributing.md).
+You should also check out our [contribution guide](/profile/contributing.md).
 
 We can't wait to meet you! 🤗
