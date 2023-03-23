@@ -8,7 +8,7 @@ We are a caring community 👐🏿, shaping the future of how you work with `#gi
 Follow our [public roadmap](https://dcrustodc.netlify.app/) ✨ and feel free to share your suggestions 🙇🏿‍♀️🙇🏿. Or better yet, join our community 👇🏽!
 
 ## 🌎 Join DCRUST Open Source Developers Community
-To get involved with our community, please make sure you are familiar with the project's [Code of Conduct](https://github.com/asyncapi/.github/blob/master/CODE_OF_CONDUCT.md).
+To get involved with our community, please make sure you are familiar with the project's [Code of Conduct](https://github.com/DCRUSTODC/.github/blob/main/profile/code-of-conduct.md).
 
 We're a community of great people who are passionate about open source and collaborative events. There are several ways to communicate with other people working on the other projects:
 
