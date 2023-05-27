@@ -30,6 +30,6 @@ Emoji/Type | Represents | Emoji/Type | Represents | Emoji/Type | Represents |
 
 To figure out a great `first GitHub issue` to work on.
 
-You should also check out our [contribution guide](/profile/contributing.md).
+You should also check out our [code of conduct](/profile/code-of-conduct.md) and recent [contributors](/profile/contributing.md).
 
-We can't wait to meet you! 🤗
+You look cute while coding! 🤗
