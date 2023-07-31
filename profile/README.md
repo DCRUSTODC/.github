@@ -1,5 +1,5 @@
 ## ✨ Welcome
-Welcome to the [DCRUSTODC Initiative](https://dcrustodc.netlify.app/), part of [the OSS](https://opensource.com/).
+Welcome to the [DCRUSTODC](https://dcrustodc.netlify.app/)'s home, a part of the [OSS](https://opensource.com/).
 
 DCRUSTODC seeks to improve the current interest of students in open source contributions and the tooling system around the community. ❤️
 
@@ -10,15 +10,17 @@ Follow our [public roadmap](https://dcrustodc.netlify.app/) ✨ and feel free to
 ## 🌎 Join DCRUST Open Source Developers Community
 To get involved with our community, please make sure you are familiar with the project's [Code of Conduct](https://github.com/DCRUSTODC/.github/blob/main/profile/code-of-conduct.md).
 
-We're a community of great people who are passionate about open source and collaborative events. There are several ways to communicate with other people working on the other projects:
+A custom compilation of resources to learn the latest tech to follow is available [here](https://github.com/DCRUSTODC/.github/blob/main/resources.md).
+
+We're a community of great people who are passionate about open source and collaborative events. There are several ways to communicate with other people working on several other projects.
 
 ## 📑 Getting started
-Are you wondering where to look first? Then search no more! Here are some great first [contributions list](https://dcrustodc.netlify.app/) spots to visit, so as to get acquainted with the project and tools:
+Are you wondering where to look first? Then search no more! Here are some great [first contribution topics](https://dcrustodc.netlify.app/) to read about, so as to get acquainted with the project and tools!
 
 ## 👩🏽‍💻 Contribute to DCRUSTODC
 First of all, thanks for getting involved! ✨
 
-There are many awesome ways to contribute to the DCRUSTODC Initiative. (Code isn't the only way to help out! ❤️) The below table gives you an idea of how contributions are recognized in the project.
+There are many awesome ways to contribute to the DCRUSTODC. (Code isn't the only way to help out! ❤️) The below table gives you an idea of how contributions are recognized in the project.
 
 
 Emoji/Type | Represents | Emoji/Type | Represents | Emoji/Type | Represents |
