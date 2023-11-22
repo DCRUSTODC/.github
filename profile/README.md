@@ -3,7 +3,7 @@ Welcome to the [DCRUSTODC](https://dcrustodc.netlify.app/)'s home, a part of the
 
 DCRUSTODC seeks to improve the current interest of students in open source contributions and the tooling system around the community. ❤️
 
-We are a caring community 👐🏿, shaping the future of how you work with `#givingmorethangetting`; no matter if it is Kafka or WebSocket.
+We are a caring community 👐🏿, shaping the future of how you work with `#givingmorethangetting`, led by [Sambhav Saxena](https://github.com/sambhavsaxena) since January, 2023;
 
 Follow our [public roadmap](https://dcrustodc.netlify.app/) ✨ and feel free to share your suggestions 🙇🏿‍♀️🙇🏿. Or better yet, join our community 👇🏽!
 
